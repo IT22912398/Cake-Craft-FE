@@ -36,6 +36,6 @@ const Profile = () => {
     </div>
   )
 }
-
+// const Profile 
 export default Profile
 // import { useEffect } from "react";
